@@ -14,19 +14,19 @@ The Task Management App  This application provides a user-friendly interface for
 ## Screenshots
 
 ### 1. Dashboard
-![Dashboard](../pesira/task-management-frontend/public/screenshots/task3.png)  
+![Dashboard](/task-management-frontend/public/screenshots/task3.png)  
 *The main dashboard displays an overview of all tasks, categorized by status.*
 
 ### 2. Task Creation Modal
-![Task Creation](../pesira/task-management-frontend/public/screenshots/task1.png)  
+![Task Creation](/task-management-frontend/public/screenshots/task1.png)  
 *Easily create new tasks with a simple and clean modal interface.*
 
 ### 3. Edit Task
-![Task Details](../pesira/task-management-frontend/public/screenshots/task2.png)  
+![Task Details](/task-management-frontend/public/screenshots/task2.png)  
 *View and edit task details, including description, due date, and priority.*
 
 ### 4. Completed Tasks tab
-![Completed tasks](../pesira/task-management-frontend/public/screenshots/task4.png)  
+![Completed tasks](/task-management-frontend/public/screenshots/task4.png)  
 *Display the completed tasks.*
 
 ## Technologies Used
