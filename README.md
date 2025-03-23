@@ -53,7 +53,7 @@ The Task Management App  This application provides a user-friendly interface for
 
 . Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-management-app-frontend.git
+   git clone https://github.com/your-username/task-management.git
 
    ```
    ### Frontend configuration 
@@ -73,8 +73,8 @@ The Task Management App  This application provides a user-friendly interface for
   `` cd task_management``
 2. Configure the application.properties
  ``  spring.datasource.url=jdbc:postgresql://localhost:5432/database name ``
-``  spring.datasource.username=your-username ``
-`` spring.datasource.password=your-password ``
+ ``  spring.datasource.username=your-username ``
+ `` spring.datasource.password=your-password ``
 
 3. Run the Spring Boot application
 `` ./mvnw springboot:run ``
