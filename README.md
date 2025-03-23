@@ -1,4 +1,4 @@
-# Task Management App - Frontend
+# Task Management App 
 The Task Management App  This application provides a user-friendly interface for managing tasks, organizing work, to boost your productivity. The frontend is built using React.js while the backend is built using springboot
 
 ---
@@ -71,10 +71,14 @@ The Task Management App  This application provides a user-friendly interface for
  
  1. Navigate the backend directory
   `` cd task_management``
-2. Configure the application.properties
- ``  spring.datasource.url=jdbc:postgresql://localhost:5432/database name ``
- ``  spring.datasource.username=your-username ``
- `` spring.datasource.password=your-password ``
+2. Configure the application.properties file
+    #### database name
+    `` spring.datasource.url=jdbc:postgresql://localhost:5432/databasename `` 
+    #### username
+    `` spring.datasource.username=your-username ``
+    #### password
+    `` spring.datasource.password=your-password ``
+
 
 3. Run the Spring Boot application
 `` ./mvnw springboot:run ``
